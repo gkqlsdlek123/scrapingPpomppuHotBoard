@@ -1,0 +1,29 @@
+{
+	"name": "cj-scarper",
+	"version": "1.0.0",
+	"description": "ppomppu board 'cj' keyword scraper",
+	"main": "cjMonitor.js",
+	"scripts": {
+		"test": "nodejs cjMonitor.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://gitlab.cjoshopping.com/affiliate/community-scraper.git"
+	},
+	"keywords": [
+		"community",
+		"scraper"
+	],
+	"author": "habin_kim@cj.net",
+	"license": "ISC",
+	"dependencies": {
+		"puppeteer": "^1.7.0",
+		"cheerio": "1.0.0-rc.2",
+		"request": "2.88.0",
+		"dateformat": "^3.0.3",
+		"moment": "^2.24.0",
+		"node-telegram-bot-api": "^0.30.0",
+		"forever":"0.15.3"
+	},
+	"devDependencies": {}
+}
