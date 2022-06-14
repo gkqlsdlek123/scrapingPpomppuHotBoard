@@ -3,9 +3,9 @@
  *
  * Copyright (c) 2018 CJ ENM
  *
- * @author <habin_kim@cj.net>
- * @modified 김하빈 <habin_kim@cj.net> 2019-03-01
- * @lastModified 김하빈 <habin_kim@cj.net> 2019-03-07
+ * @author 
+ * @modified 김하빈 2019-03-01
+ * @lastModified 김하빈 2019-03-07
  */
 var ppomppuCrawling = require('./ppomppu_crawling.js');
 var telegram = require('./telegram.js');
