@@ -1,11 +1,10 @@
 /*
  * PPomppu Scraper
  *
- * Copyright (c) 2018 CJ ENM
  *
- * @author <habin_kim@cj.net>
- * @modified 김하빈 <habin_kim@cj.net> 2019-03-01
- * @lastModified 김하빈 <habin_kim@cj.net> 2019-03-07
+ * @author 
+ * @modified 김하빈 2019-03-01
+ * @lastModified 김하빈 2019-03-07
  */
 // provides a high-level API to control Chrome or Chromium over the DevTools Protocol
 // requires at least Node v6.4.0, but the examples below use async/await which is only supported in Node v7.6.0 or greater
